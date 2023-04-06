@@ -132,7 +132,7 @@ h2
 .decoration::after
 {
     content: '';
-    background: url(img/three-dashes.svg);
+    background: url(./img/three-dashes.svg);
     position: absolute;
     top: -0.75rem;
     height: 36px;
